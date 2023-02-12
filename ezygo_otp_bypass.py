@@ -41,6 +41,9 @@ def send_request(otp):
     if response.status_code == 200:
         # Print the OTP if the request was successful
         print("OTP found: ", otp)
+    else:
+        print("otp not match :" ,otp)
+        
 
 # Open the file with the OTPs
 with open(otp_file) as f:
