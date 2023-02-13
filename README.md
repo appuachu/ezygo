@@ -3,7 +3,7 @@
 # Ezygo
 
 This tool is used to send unlimited otp from ezygo website and also used to bypass user login.
-This Tool will take 2 hours to bypass.
+This Tool will take 2 Hours for login bypass.
 
 # What is Ezygo
 Ezygo.app is designed as a complete solution for higher educational institutes.
