@@ -2,6 +2,7 @@ import concurrent.futures
 import requests
 import json
 
+
 # Define the endpoint URL
 url = "https://production.api.ezygo.app/api/v1/Xcr45_salt/password/reset"
 username=input("Enter the Username : ")
