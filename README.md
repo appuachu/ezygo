@@ -1,4 +1,4 @@
-## Aswan Founder and CEO of CyberFox
+## Achu Founder and CEO of CyberFox
 
 # Ezygo
 
@@ -40,4 +40,4 @@ cd ezygo
 python ezygo_unli.py
 ```
 
-#### Owner Achu Founder and CEO of cyberfox
+
