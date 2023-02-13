@@ -28,14 +28,14 @@ Ezygo.app is designed as a complete solution for higher educational institutes.
 ```bash
 git clone https://github.com/appuachu/ezygo
 cd ezygo
-python ezygo_otp_bypass.py
+python ezygo_login_bypass.py
 ```
 ## Installation for sending unlimited otp 
 
 ```bash
 git clone https://github.com/appuachu/ezygo
 cd ezygo
-python ezygo_unli_otp.py
+python ezygo_unli.py
 ```
 
 #### Owner Achu Founder and CEO of cyberfox
