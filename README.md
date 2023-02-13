@@ -1,4 +1,3 @@
-## Aswan Founder and CEO of CyberFox
 # Ezygo
 
 This tool is used to send unlimited otp from ezygo website and also used to bypass user login.
